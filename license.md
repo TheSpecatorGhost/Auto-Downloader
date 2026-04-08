@@ -40,7 +40,11 @@ You are **NOT** permitted to:
 
 ## 4. Author’s Right to Restrict Use  
 
-The author reserves the right, at their sole discretion, to deny or revoke permission for any individual, server, organization, or project to use this mod at any time. Continued use after such notice constitutes a violation of this license.
+The author reserves the right to deny usage of this mod to any individual, server, organization, or project.
+
+If a notice is issued, the affected party must stop using and remove the mod within a reasonable timeframe.
+
+Continued use after such notice constitutes a violation of this license.
 
 ---
 
