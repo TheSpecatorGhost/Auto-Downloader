@@ -33,7 +33,7 @@ You are **NOT** permitted to:
 
 - Reupload this mod to any other website or platform.  
 - Redistribute this mod file in any form without explicit permission from the author.  
-- Modify, edit, decompile, reverse engineer, or redistribute modified versions of this mod (accept for config).  
+- Modify, edit, decompile, reverse engineer, or redistribute modified versions of this mod (except for config).  
 - Claim this mod or any part of it as your own work.  
 
 ---
