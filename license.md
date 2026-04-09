@@ -32,8 +32,8 @@ You are **NOT** permitted to:
 You are **NOT** permitted to:
 
 - Reupload this mod to any other website or platform.  
-- Redistribute this mod file in any form without explicit permission from the author.  
-- Modify, edit, decompile, reverse engineer, or redistribute modified versions of this mod (except for config).  
+- Redistribute this mod file in any form without explicit permission from the author, except through official platforms.  
+- Modify, edit, decompile, reverse engineer, or redistribute modified versions of this mod (except for configuration files).  
 - Claim this mod or any part of it as your own work.  
 
 ---
@@ -42,19 +42,27 @@ You are **NOT** permitted to:
 
 The author reserves the right to deny usage of this mod to any individual, server, organization, or project.
 
-If a notice is issued, the affected party must stop using and remove the mod within a reasonable timeframe.
+If a notice is issued, the affected party must stop using and remove the mod within **7 days** of notice.
 
 Continued use after such notice constitutes a violation of this license.
 
 ---
 
-## 5. Ownership  
+## 5. Disclaimer of Liability  
+
+This mod is provided "as is", without warranty of any kind.
+
+The author is not responsible for any damage, data loss, system instability, or other issues that may occur from the use of this mod.
+
+---
+
+## 6. Ownership  
 
 This mod, including all sounds, assets, and code, remains the intellectual property of the original author.
 
 ---
 
-## 6. Permission Requests  
+## 7. Permission Requests  
 
 If you wish to use this mod in a way not explicitly permitted above, you must obtain written permission from the author.
 
