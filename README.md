@@ -62,3 +62,4 @@ Please check the included LICENSE file or repository for usage terms.
 ## 🔗 Links
 
 - License: https://github.com/TheSpecatorGhost/Auto-Downloader/blob/main/license.md
+- Issue Tracker: https://github.com/TheSpecatorGhost/Auto-Downloader/issues
